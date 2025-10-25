@@ -64,7 +64,9 @@ endif
 " Shortcuts for split navigation
 " Direita
 map <C-h> <C-w>h 
-map <C-j> <C-w>j " Baixo
+
+map <C-j> <C-w>j 
+" Baixo
 map <C-k> <C-w>k " Cima
 map <C-l> <C-w>l " Esquerda
 
