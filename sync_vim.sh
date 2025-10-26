@@ -53,6 +53,7 @@ echo "Realizando commit e push para o github."
 cd $DIRETORIO_DESTINO
 
 git add .
+git status
 git commit -m "$MENSAGEM"
 git push
 
