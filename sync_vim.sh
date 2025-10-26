@@ -57,5 +57,6 @@ git status
 git commit -m "$MENSAGEM"
 git push
 
-echo "✅ Commit realizado com a mensagem: '$MENSAGEM'"
+echo "✅ Commit realizado com a mensagem: " 
+         echo "'$MENSAGEM'" > README.md
 
